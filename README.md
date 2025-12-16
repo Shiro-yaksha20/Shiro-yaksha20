@@ -75,8 +75,8 @@ An AI-powered conversational bot built with Python. Deployed and accessible via 
 ## Contact
 
 - **GitHub:** [Shiro-yaksha20](https://github.com/Shiro-yaksha20)
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [your-linkedin-profile]
+- **Email:** [sudharsanmythili@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/sudharsan-b-a115a832b]
 
 ---
 
