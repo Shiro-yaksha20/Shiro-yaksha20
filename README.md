@@ -32,12 +32,6 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 
 [View Repository](https://github.com/Shiro-yaksha20/system-cleaner)
 
----
-
-### Feast
-An AI-powered conversational bot built with Python. Deployed and accessible via web interface.
-
-**Status:** Private Repository | [Live Demo](https://feast-ten.vercel.app)
 
 ---
 
