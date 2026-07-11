@@ -46,11 +46,10 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 ## GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiro-yaksha20&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Shiro-yaksha20&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-yaksha20&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shiro-yaksha20&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
