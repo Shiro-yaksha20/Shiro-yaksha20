@@ -1,4 +1,4 @@
-# Shiro-yaksha20
+# Sudharsan
 
 **Student Developer | Agentic AI Practitioner**
 
@@ -16,12 +16,21 @@ My work reflects a belief that the future of development lies in human-AI collab
 
 ## Featured Projects
 
-### Salon Billing System
-A production-ready Windows desktop billing application for salons, featuring PDF receipt generation, WhatsApp integration, and secure credential storage.
+### Billing Management System
+A production-ready Windows desktop billing application for service businesses, built with Python and PyQt6. Manages customers, services, staff, invoicing, PDF receipts, WhatsApp delivery, encrypted backups, and Excel exports — all from a single interface, with a clean layered architecture (UI → Services → Repositories → Infrastructure) and 174 passing tests.
 
-**Core Capabilities:** PyQt6 GUI, SQLite with SQLAlchemy, WhatsApp Cloud API integration, Windows Credential Manager
+**Core Capabilities:** PyQt6 GUI, SQLite with SQLAlchemy, WhatsApp Cloud API integration, Windows Credential Manager, ReportLab PDF generation, AES-encrypted backups
 
-[View Repository](https://github.com/Shiro-yaksha20/ConsoleApp1)
+[View Repository](https://github.com/Shiro-yaksha20/Billing-Management-System)
+
+---
+
+### Asset Label Generator
+A free, open-source static web app for generating printable asset labels with QR codes from CSV/Excel files. Runs entirely client-side in the browser — no backend — with live label preview and tiling onto A4/A3 sheets, exporting to PDF or PNG.
+
+**Core Capabilities:** Client-side CSV/Excel parsing, QR code generation, live preview, PDF/PNG export
+
+[View Repository](https://github.com/Shiro-yaksha20/Asset-Label-Generator) · [Live Demo](https://shiro-yaksha20.github.io/Asset-Label-Generator/)
 
 ---
 
@@ -31,7 +40,6 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 **Architecture:** Modular design with separate Core, App, and Test projects
 
 [View Repository](https://github.com/Shiro-yaksha20/system-cleaner)
-
 
 ---
 
@@ -47,11 +55,9 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 
 ---
 
-## Interests
-
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sudharsan%20B)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsan-b-a115a832b)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudharsanmythili@gmail.com)
 
 ---
@@ -61,11 +67,14 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 ### 🧠 Languages & Markup
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 
 ### 🌐 Web & App Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -76,16 +85,19 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PyQt](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white)
 
 ### ☁️ Databases & Cloud
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
 ### 🤖 AI, Data & Analytics
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
@@ -98,6 +110,7 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-000000?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 
 ### 🎨 Design, Media & Hardware
@@ -107,13 +120,13 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
 
-
 ---
 
 ## Roadmap
 
-- [ ] Expand Salon Billing System with analytics dashboard
+- [ ] Add analytics dashboard to Billing Management System
 - [ ] Add cross-platform support to System Cleaner
+- [ ] Add batch/multi-sheet support to Asset Label Generator
 - [ ] Explore additional agentic AI frameworks
 - [ ] Contribute to open-source AI tooling projects
 - [ ] Document agentic development workflows
@@ -123,8 +136,8 @@ A Windows system maintenance utility built with C#. Designed to clean temporary 
 ## Contact
 
 - **GitHub:** [Shiro-yaksha20](https://github.com/Shiro-yaksha20)
-- **Email:** [sudharsanmythili@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/sudharsan-b-a115a832b]
+- **Email:** [sudharsanmythili@gmail.com](mailto:sudharsanmythili@gmail.com)
+- **LinkedIn:** [sudharsan-b-a115a832b](https://www.linkedin.com/in/sudharsan-b-a115a832b)
 
 ---
 
